@@ -12,8 +12,9 @@ This is a simple plugin that allows you to disable comments being submitted to y
 
 This plugin isn't meant for the average WordPress user, but it's great, for example, if you have a demo site for a WordPress theme. With this plugin activated, people visiting your demo site will be able to preview the look of the comment form of your theme; however, it will not allow anyone to submit a comment. This way, you don't end up with a WordPress theme demo site with a thousand pending comments.
 
-Here's a basic example from our [Jump Start](http://wpjumpstart.com) demo; submit a comment to test: 
-[Example Post](http://www.demoblvd.com/themes/jumpstart/2012/01/25/cheap-cars-can-photograph-well/)
+Here's a basic example from our [Jump Start](http://wpjumpstart.com) demo; submit a comment to test:
+
+[Example Post](http://demo.themeblvd.com/?theme=jumpstart&url=http://www.demoblvd.com/themes/jumpstart/2012/01/25/cheap-cars-can-photograph-well/)
 
 == Installation ==
 
