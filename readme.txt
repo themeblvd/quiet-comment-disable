@@ -1,5 +1,5 @@
 === Quiet Comment Disable ===
-
+Author URI: http://www.themeblvd.com
 Contributors: themeblvd
 Tags: themeblvd, theme blvd, close, disable, comments, demo
 Stable tag: 1.0.0
